@@ -1,25 +1,18 @@
-# Mingjie Yang
+### Hi, I'm misaya 👋
 
-**AI Application Engineer · Shenzhen**  
-I build LLM agents and knowledge services that go from prototype to production — and use evaluation to prove they work.
+I build LLM agents and AI apps in Shenzhen — mostly the unglamorous parts that make them work in production: tool calling, retrieval, and evals.
 
-专注 AI 应用工程：企业 Agent、RAG 知识服务、评测驱动上线。
+These days I'm into:
 
-## What I work on
+- Agent runtimes — tool use, MCP, human-in-the-loop, long-running tasks
+- RAG that actually cites its sources
+- Evals as a release gate, not an afterthought
+- Shipping full-stack side projects end to end
 
-- **Agent runtime & tooling** — tool calling / MCP, permission & human-in-the-loop approval, long-running task recovery, context engineering
-- **Knowledge services (RAG)** — hybrid retrieval, rerank, citation grounding, index consistency & embedding migration
-- **Evaluation & reliability** — regression sets as release gates, LLM-as-judge + human spot checks, latency & cost tuning
-- **Full-stack AI products** — Python / TypeScript, React, Supabase, payments, shipped end to end
+#### Things I've made
 
-## Featured
+- [VocabDaily](https://github.com/misaya-yang/AI-English-learn) — an AI English-learning app with a memory-aware coach and writing feedback. [Try it](https://ai-english-learn.vercel.app)
+- [agent-harness-projects](https://github.com/misaya-yang/agent-harness-projects) — visual deep-dives into 7 open-source agent runtimes
+- [my_blog](https://github.com/misaya-yang/my_blog) — notes on building agents
 
-| Project | What it is |
-| --- | --- |
-| [VocabDaily (AI-English-learn)](https://github.com/misaya-yang/AI-English-learn) | An AI English-learning web app built 0→1: AI coach with memory, writing feedback, subscription billing. Live at [ai-english-learn.vercel.app](https://ai-english-learn.vercel.app) |
-| [agent-harness-projects](https://github.com/misaya-yang/agent-harness-projects) | Visual deep-dives into 7 mainstream open-source agent runtimes — how they handle the loop, tools, memory and context |
-| [my_blog](https://github.com/misaya-yang/my_blog) | Notes on building agents and AI applications |
-
-## Stack
-
-Python · TypeScript · FastAPI · React · LangGraph · MCP · Qdrant / Milvus · PostgreSQL · Redis · Docker
+Usually working with Python, TypeScript, LangGraph, FastAPI and React.
